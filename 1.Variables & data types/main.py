@@ -11,5 +11,5 @@ print(type(floating_point))  # Output: <class 'float'>
 print(type(string))  # Output: <class 'str'>
 print(type(boolean))  # Output: <class 'bool'>
 print(type(list_example))  # Output: <class '7.list'>
-print(type(tuple_example))  # Output: <class 'tuple'>
+print(type(tuple_example))  # Output: <class '8.tuple'>
 print(type(dictionary_example))  # Output: <class 'dict'>
